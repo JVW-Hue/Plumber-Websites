@@ -108,8 +108,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For questions or support, please contact:
 - Email: your-email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [JVW-Hue](https://github.com/yourusername)
 
 ---
 
-**Built with ⚡ by [Your Name]**
+**Built with ⚡ by [Jano]**
